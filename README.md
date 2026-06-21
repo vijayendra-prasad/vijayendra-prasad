@@ -1,4 +1,4 @@
-# Your friend, Vijayendra Prasad here
+# Your friend, Vijayendra here
 
 Are you ready to dive in .......
 
@@ -11,7 +11,7 @@ I am a software developer with a keen interest in open-source contributions, clo
 - 🌱 **Learning Curve**: Blog writing and AWS cloud .
 - 👯 **Let’s Team Up**: I’m always open to teaming up on impactful open-source initiatives.
 - 📫 Reach me at: **[vijayendraprasadvvp@gmail.com](mailto:vijayendraprasadvvp@gmail.com)**
-- 💼 Let’s Connect: **[LinkedIn](https://www.linkedin.com/in/vijayendra-prasad)**
+
 
 
 
