@@ -4,12 +4,10 @@ Are you ready to dive in .......
 
 ## Who Am I?
 
-I am a software developer with a keen interest in open-source contributions, cloud computing, and artificial intelligence. I love writing technical blogs.
+I am a software developer with a keen interest in cloud computing, and artificial intelligence. I love writing technical blogs.
 
 
-- 🔭 **What I’m up to**: Working on exciting open-source projects and honing my skills.
-- 🌱 **Learning Curve**: Blog writing and AWS cloud .
-- 👯 **Let’s Team Up**: I’m always open to teaming up on impactful open-source initiatives.
+- 🌱 **Learning Curve**: AWS cloud, Auotmation
 - 📫 Reach me at: **[vijayendraprasadvvp@gmail.com](mailto:vijayendraprasadvvp@gmail.com)**
 
 
